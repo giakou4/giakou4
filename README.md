@@ -20,9 +20,7 @@
 - Simultaneously, I am creating a python tool for image feature extraction
 - Hobbies: Crossfit, tennis, gaming
 - 
-<div>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=giakou4&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-<div/>
+
 
 ## Skills
 - Programming Languages: Python | MATLAB | R | C/C++ | Java <br/>
@@ -36,3 +34,6 @@
 <img align="rigth" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giakou4&layout=compact" />
 <div/>
 
+<div>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=giakou4&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<div/>
