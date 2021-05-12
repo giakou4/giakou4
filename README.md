@@ -1,8 +1,4 @@
 <h1 align="center">I'm Nikolaos Giakoumoglou</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=giakou4&label=Profile%20views&color=0e75b6&style=flat" alt="giakou4" /> </p>
-
-
-## Reach me out
 
 <p align="left">
 <a target="_blank" href="https://www.linkedin.com/in/nikos-g-giakoumoglou/">
@@ -18,6 +14,8 @@
   <img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=giakou4&label=Profile%20views&color=0e75b6&style=flat" alt="giakou4" /> </p>
 
 ## Programming Languages
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
