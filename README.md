@@ -22,7 +22,7 @@
 
 ## Skills
 - Programming Languages: Python | MATLAB | R | C/C++ | Java <br/>
-- Python Libraries: Keras | Pytorch | Tensorflow | Scikit-learn | Numpy | Scipy | Matplotlib | Seaborn <br/>
+- Python Libraries: keras | pytorch | tensorflow | scikit-learn | scikit-image | numpy | scipy | pandas | matplotlib | seaborn <br/>
 - MATLAB Toolboxes: Computer Vision | Deep Learning | Neural Networks | Digital Image Processing | Fuzzy | Statistics and Machine Learning <br/>
 - Tools: Microsoft Office | Lyx (LaTeX) <br/>
 - Databases: SQL (MySQL) | NoSQL (MongoDB) <br/>
