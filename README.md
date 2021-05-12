@@ -26,7 +26,7 @@
 - MATLAB Toolboxes: Computer Vision | Deep Learning | Neural Networks | Digital Image Processing | Fuzzy | Statistics and Machine Learning <br/>
 - Tools: Microsoft Office | Lyx (LaTeX) <br/>
 - Databases: SQL (MySQL) | NoSQL (MongoDB) <br/>
-- Operating Systems: Windows 10 | Lunux (Ubuntu) <br/>
+- Operating Systems: Windows 10 | Linux (Ubuntu) <br/>
 
 <div>
 <img align="rigth" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giakou4&layout=compact" />
