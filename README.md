@@ -19,8 +19,6 @@
 - Currently working on my MSc Thesis on Machine Learning and Computer Vision
 - Simultaneously, I am creating a python tool for image feature extraction
 - Hobbies: Crossfit, tennis, gaming
-- 
-
 
 ## Skills
 - Programming Languages: Python | MATLAB | R | C/C++ | Java <br/>
@@ -29,7 +27,7 @@
 - Tools: Microsoft Office | Lyx (LaTeX) <br/>
 - Databases: SQL (MySQL) | NoSQL (MongoDB) <br/>
 - Operating Systems: Windows 10 | Lunux (Ubuntu) <br/>
-- 
+
 <div>
 <img align="rigth" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giakou4&layout=compact" />
 <div/>
