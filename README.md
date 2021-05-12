@@ -29,10 +29,10 @@
 - Operating Systems: Windows 10 | Lunux (Ubuntu) <br/>
 
 <br/>
+<br/>
+<br/>
 
 <div>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giakou4&layout=compact" />
-<div/>
-<div>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giakou4&layout=compact" />
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=giakou4&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 <div/>
