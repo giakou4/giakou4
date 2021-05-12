@@ -12,7 +12,7 @@
 </a>
 <a target="_blank" href="https://www.facebook.com/Nikos.Giakoumoglou98/">
   <img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a> </p>
+</a> </p>  
 
 ### Programming Languages
 <p align="left"> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
