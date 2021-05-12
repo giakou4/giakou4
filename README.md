@@ -13,13 +13,12 @@
   <img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a> </p>  
 <br/>
-<br/>
 
 ## About me
 - Studying Electrical and Computer Engineering in AUTh
 - Currently working on my MSc Thesis on Machine Learning and Computer Vision
 - Simultaneously, I am creating a python tool for image feature extraction
-- 
+- Hobbies: Crossfit, tennis, gaming
 
 ## Programming Languages
 <p align="left"> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
