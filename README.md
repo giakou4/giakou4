@@ -21,12 +21,12 @@
 - Hobbies: Crossfit, tennis, gaming
 
 ## Skills
-Programming Languages: Python | MATLAB | R | C/C++ | Java
-Python Libraries: Keras | Pytorch | Tensorflow | Scikit-learn | Numpy | Scipy | Matplotlib |Seaborn
-MATLAB Toolboxes: Computer Vision | Deep Learning | Neural Networks | Digital Image Processing | Fuzzy | Statistics and Machine Learning
-Tools: Microsoft Office | Lyx (LaTeX)
-Databases: SQL (MySQL) | NoSQL (MongoDB)
-Operating Systems: Windows 10 | Lunux (Ubuntu)
+Programming Languages: Python | MATLAB | R | C/C++ | Java <br/>
+Python Libraries: Keras | Pytorch | Tensorflow | Scikit-learn | Numpy | Scipy | Matplotlib | Seaborn <br/>
+MATLAB Toolboxes: Computer Vision | Deep Learning | Neural Networks | Digital Image Processing | Fuzzy | Statistics and Machine Learning <br/>
+Tools: Microsoft Office | Lyx (LaTeX) <br/>
+Databases: SQL (MySQL) | NoSQL (MongoDB) <br/>
+Operating Systems: Windows 10 | Lunux (Ubuntu) <br/>
 
 <br/>
 
