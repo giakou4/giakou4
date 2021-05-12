@@ -1,5 +1,4 @@
 ## Hi there, I am Nikos
-
 <p align="left">
 <a target="_blank" href="https://www.linkedin.com/in/nikos-g-giakoumoglou/">
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -14,7 +13,6 @@
   <img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 </p>
-
 
 ## Programming Languages
 
