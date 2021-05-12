@@ -1,4 +1,4 @@
-<h1 align="center">I'm Nikolaos Giakoumoglou</h1>
+## Hi there, I am Nikos 👋
 
 <p align="left">
 <a target="_blank" href="https://www.linkedin.com/in/nikos-g-giakoumoglou/">
