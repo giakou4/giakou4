@@ -8,7 +8,7 @@
   </a>
 </p>
 
-#### Glad to see you here! ![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/giakou4/giakou4/edit/main/README.md)
+#### Hallo there! ![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/giakou4/giakou4/edit/main/README.md)
 
 ### 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 - Studying Electrical and Computer Engineering AUTh, GPA: 8.72/10 (9.48/10 in Department of Electronics and Computers)
