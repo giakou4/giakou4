@@ -1,6 +1,21 @@
 <h1 align="center">I'm Nikolaos Giakoumoglou</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=giakou4&label=Profile%20views&color=0e75b6&style=flat" alt="giakou4" /> </p>
 
+
+<a target="_blank" href="https://www.linkedin.com/in/nikos-g-giakoumoglou/">
+  <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a target="_blank" href="https://www.instagram.com/n.giakoumoglou/">
+  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a target="_blank" href="mailto:ngiakoumoglou@hotmail.com">
+  <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
+<a target="_blank" href="https://www.facebook.com/Nikos.Giakoumoglou98/">
+  <img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/nikos-g-giakoumoglou/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="nikolaos-g-giakoumoglou" height="30" width="40" /></a>
