@@ -3,7 +3,7 @@
 
 
 ## Reach me out
-<div>
+<p align="left">
 <a target="_blank" href="https://www.linkedin.com/in/nikos-g-giakoumoglou/">
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -16,7 +16,7 @@
 <a target="_blank" href="https://www.facebook.com/Nikos.Giakoumoglou98/">
   <img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
-<div/>
+</p>
 
 ## Programming Languages
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
