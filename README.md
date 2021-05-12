@@ -15,7 +15,7 @@
 </a>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=giakou4&label=Profile%20views&color=0e75b6&style=flat" alt="giakou4" /> </p>
+<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?@giakou4" frameborder="0"></iframe>
 
 ## Programming Languages
 <p align="left"> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
