@@ -27,15 +27,16 @@
 - Tools: Microsoft Office | Lyx (LaTeX) <br/>
 - Databases: SQL (MySQL) | NoSQL (MongoDB) <br/>
 - Operating Systems: Windows 10 | Lunux (Ubuntu) <br/>
-
+<br/>
 <p align="left">
 <a>
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giakou4&layout=compact"  />
 </a>
 </p>  
-
+<br/>
 <p align="left">
 <a>
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=giakou4&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true"   />
 </a>
 </p> 
+<br/>
