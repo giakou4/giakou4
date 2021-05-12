@@ -29,7 +29,6 @@
 - Operating Systems: Windows 10 | Lunux (Ubuntu) <br/>
 
 <br/>
-<br/>
 
 <div>
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giakou4&layout=compact" />
