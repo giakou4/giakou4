@@ -1,27 +1,22 @@
-## Nikos G. Giakoumoglou
+<h1 align="center">Hi 👋, I'm Nikolaos Giakoumoglou</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=giakou4&label=Profile%20views&color=0e75b6&style=flat" alt="giakou4" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=giakou4" alt="giakou4" /></a> </p>
+
+- 🔭 I’m currently working on **my MSc thesis in ML & CV**
+
+- 📫 How to reach me **ngiakoumoglou@hotmail.com**
+
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/nikos-g-giakoumoglou/" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn"/>
-  </a>
-  <a href="https://www.facebook.com/Nikos.Giakoumoglou98" target="_blank">
-    <img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white&color=071A2C" alt="Facebook"/>
-  </a>
+<a href="https://linkedin.com/in/nikolaos-g-giakoumoglou" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="nikolaos-g-giakoumoglou" height="30" width="40" /></a>
+<a href="https://fb.com/nikos.giakoumoglou98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/facebook.svg" alt="nikos.giakoumoglou98" height="30" width="40" /></a>
+<a href="https://instagram.com/n.giakoumoglou" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="n.giakoumoglou" height="30" width="40" /></a>
 </p>
 
-#### Hallo there! ![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/giakou4/giakou4/edit/main/README.md)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-### 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
-- Studying Electrical and Computer Engineering AUTh, GPA: 8.72/10 (9.48/10 in Department of Electronics and Computers)
-- Machine Learning & Computer Vision enthusiast
-<br/>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=giakou4&show_icons=true&locale=en&layout=compact" alt="giakou4" /></p>
 
-### Languages 
-
-<!-- Python Image -->
-<img align="left" alt="Python" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<br/>
-
-<div>
-<img align="rigth" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giakou4&layout=compact" />
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=giakou4&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-<div/>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=giakou4&show_icons=true&locale=en" alt="giakou4" /></p>
