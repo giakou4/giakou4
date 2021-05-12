@@ -1,7 +1,7 @@
 ## Hi there, I am Nikos 👋
 
 <p align="left">
-<a target="_blank" href="https://www.linkedin.com/in/nikos-g-giakoumoglou/">
+<a> target="_blank" href="https://www.linkedin.com/in/nikos-g-giakoumoglou/">
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a target="_blank" href="https://www.instagram.com/n.giakoumoglou/">
