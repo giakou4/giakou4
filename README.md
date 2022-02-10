@@ -15,10 +15,8 @@
 <br/>
 
 ## About me
-- Studying Electrical and Computer Engineering in AUTh
-- Currently working on my MSc Thesis on Machine Learning and Computer Vision
-- Simultaneously, I am creating a python tool for image feature extraction
-- Hobbies: Crossfit, tennis, gaming
+- Diploma of Electrical and Computer Engineering in AUTh
+- Currently working CERTH PestNu project
 
 ## Skills
 - Programming Languages: Python | MATLAB | R | C/C++ | Java <br/>
