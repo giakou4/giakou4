@@ -16,7 +16,7 @@
 
 ## About me
 - Diploma of Electrical and Computer Engineering in AUTh
-- Currently working CERTH PestNu project
+- Currently working for CERTH in PestNu project
 
 ## Skills
 - Programming Languages: Python | MATLAB | R | C/C++ | Java <br/>
