@@ -15,16 +15,16 @@
 <br/>
 
 ## About me
-- Diploma of Electrical and Computer Engineering in AUTh
-- Currently working for CERTH in PestNu project
+- Diploma in Electrical and Computer Engineering (5-year degree with integrated master’s), GPA 8.91/10 (Excellent)
+  - Specialization in Electronics and Computers, GPA 9.60/10 (Excellent)
+- Currently working as a Research Assistant for Centre for Research & Technology Hellas (CERTH), Information Technologies Institute (ITI)
 
-## Skills
-- Programming Languages: Python | MATLAB | R | C/C++ | Java <br/>
-- Python Libraries: keras | pytorch | tensorflow | scikit-learn | scikit-image | numpy | scipy | pandas | matplotlib | seaborn <br/>
-- MATLAB Toolboxes: Computer Vision | Deep Learning | Neural Networks | Digital Image Processing | Fuzzy | Statistics and Machine Learning <br/>
-- Tools: Microsoft Office | LaTeX | Lyx (LaTeX) <br/>
-- Databases: SQL (MySQL) | NoSQL (MongoDB) <br/>
-- Operating Systems: Windows 10 | Linux (Ubuntu) <br/>
+## Skills/Interest
+- Programming: Python, MATLAB, R, C/C++, Java <br/>
+  - Python Libraries: keras | pytorch | tensorflow | scikit-learn | scikit-image | numpy | scipy | pandas | matplotlib | seaborn <br/>
+  - MATLAB Toolboxes: Computer Vision | Deep Learning | Neural Networks | Digital Image Processing | Fuzzy | Statistics and Machine Learning <br/>
+- Languages:  Greek (native), English (fluent-Certificate of Proficiency in English) <br/>
+- Interests: **Water Polo**, (practicing since 2010); occasionally participating on local tournaments with a local team ׀ **Tennis**, member of the Sports Association of Kalamaria since 2016, Thessaloniki; regularly participating in tournaments ׀ **Cross-Fit**, practicing individually to maintain a balanced lifestyle. Participating in Pink Ribbon Games for charity purposes <br/>
 
 <div>
 <img align="rigth" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giakou4&layout=compact" />
