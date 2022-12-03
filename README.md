@@ -1,15 +1,15 @@
 # Nikolaos G. Giakoumoglou
 <p align="left">
-<a target="_blank" href="https://www.linkedin.com/in/nikos-g-giakoumoglou/">
+<a target="_blank" href="https://www.linkedin.com/in/nikolaos-giakoumoglou/">
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a target="_blank" href="https://www.instagram.com/n.giakoumoglou/">
+<a target="_blank" href="https://www.instagram.com/nikos.giakoumoglou/">
   <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a target="_blank" href="mailto:ngiakoumoglou@hotmail.com">
   <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
-<a target="_blank" href="https://www.facebook.com/Nikos.Giakoumoglou98/">
+<a target="_blank" href="https://www.facebook.com/n1kolaos.giakoumoglou/">
   <img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a> </p>  
 <br/>
