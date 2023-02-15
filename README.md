@@ -4,7 +4,7 @@
 
 Diploma in [Electrical and Computer Engineering]([https://www.auth.gr/](http://www.ee.auth.gr/)), [Aristotle University of Thessaloniki](https://www.auth.gr/) (GPA: 8.91/10)
 
-Specialization in [Electronics and Computers]([https://www.auth.gr/](https://www.auth.gr/division/ee-decom/)) (GPA 9.60/10)
+Specialization in [Electronics and Computers](https://www.auth.gr/division/ee-decom/) (GPA 9.60/10)
 
 Research Assistant at [The Centre for Research & Technology, Hellas, Information Technology Institute](https://www.iti.gr/iti/index.html)
 
