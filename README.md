@@ -5,7 +5,7 @@
 ![python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) 
 ![pytorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white) 
 ![tf](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![matlab](https://img.shields.io/badge/MATLAB-E86E05?style=for-the-badge&logo=)
+![matlab](https://img.shields.io/badge/MATLAB-blue?style=for-the-badge&logo=)
 
 Diploma in [Electrical and Computer Engineering]([https://www.auth.gr/](http://www.ee.auth.gr/)), [Aristotle University of Thessaloniki](https://www.auth.gr/) (Sep. 2016 - Nov. 2021)
 
