@@ -11,4 +11,4 @@ Diploma in [Electrical and Computer Engineering]([https://www.auth.gr/](http://w
 
 Specialization in [Electronics and Computers](https://www.auth.gr/division/ee-decom/) (Sep. 2020 - Dec. 2021)
 
-Research Assistant at [The Centre for Research & Technology, Hellas, Information Technology Institute](https://www.iti.gr/iti/index.html) (Feb. 2022 - today)
+Research Assistant at [The Centre for Research & Technology, Hellas](https://www.certh.gr/), [Information Technology Institute](https://www.iti.gr/iti/index.html) (Feb. 2022 - today)
