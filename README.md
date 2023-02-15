@@ -29,3 +29,11 @@
 <div>
 <img align="rigth" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giakou4&layout=compact" />
 <div/>
+
+
+![img](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue![image](https://user-images.githubusercontent.com/57758089/219041653-b9f272a6-7d8d-4ee1-823b-94210bbd851c.png)
+)
+![img](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white![image](https://user-images.githubusercontent.com/57758089/219041689-be7f3187-0a5d-4afb-a90b-cb38a3acf1fe.png)
+)
+![img](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white![image](https://user-images.githubusercontent.com/57758089/219041740-979d5f63-4225-4f6f-bad4-922421ac63e1.png)
+)
