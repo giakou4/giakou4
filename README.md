@@ -9,5 +9,7 @@ Specialization in [Electronics and Computers](https://www.auth.gr/division/ee-de
 Research Assistant at [The Centre for Research & Technology, Hellas, Information Technology Institute](https://www.iti.gr/iti/index.html) | Feb. 2022 - today
 
 I mostly work using 
-![python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) 
-![pytorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
+![img](https://img.shields.io/badge/-Python-yellow)
+![img](https://img.shields.io/badge/-PyTorch-red)
+![img](https://img.shields.io/badge/-OpenCV-blue)
+![img](https://img.shields.io/badge/-MATLAB-orange)
