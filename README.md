@@ -8,7 +8,5 @@ Specialization in [Electronics and Computers](https://www.auth.gr/division/ee-de
 
 Research Assistant at [The Centre for Research & Technology, Hellas, Information Technology Institute](https://www.iti.gr/iti/index.html) | Feb. 2022 - today
 
-### Skills
-
 ![python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) 
 ![pytorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
