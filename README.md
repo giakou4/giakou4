@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-#### Computer Vision and Deep Learning Engineer
+#### Computer Vision and Deep Learning Researcher
 
 ![python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) 
 ![pytorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white) 
