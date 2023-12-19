@@ -1,18 +1,15 @@
 ### Hello there 👋
 
-#### Computer Vision and Deep Learning Researcher
+#### Research Postgraduate at Imperial College London
+
+#### Communications and Signal Processing Group
+
+#### Department of Electrical and Electronic Engineering
+
+#### South Kensigton Campus, London SW7 2AZ, UK
 
 ![python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) 
 ![pytorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white) 
 ![tf](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![matlab](https://img.shields.io/badge/MATLAB-blue?style=for-the-badge&logo=)
-
-Diploma in [Electrical and Computer Engineering]([https://www.auth.gr/](http://www.ee.auth.gr/)), [Aristotle University of Thessaloniki](https://www.auth.gr/) (Sep. 2016 - Nov. 2021)
-
-Specialization in [Electronics and Computers](https://www.auth.gr/division/ee-decom/) (Sep. 2020 - Nov. 2021)
-
-Research Assistant at [The Centre for Research & Technology, Hellas](https://www.certh.gr/), [Information Technology Institute](https://www.iti.gr/iti/index.html) (Feb. 2022 - Dec. 2023)
-
-Research Postgraduate at [Imperial College London](https://www.imperial.ac.uk/), Department of Electrical and Electronic Engineering (Jan. 2024 - today)
-
 
