@@ -11,4 +11,8 @@ Diploma in [Electrical and Computer Engineering]([https://www.auth.gr/](http://w
 
 Specialization in [Electronics and Computers](https://www.auth.gr/division/ee-decom/) (Sep. 2020 - Nov. 2021)
 
-Research Assistant at [The Centre for Research & Technology, Hellas](https://www.certh.gr/), [Information Technology Institute](https://www.iti.gr/iti/index.html) (Feb. 2022 - today)
+Research Assistant at [The Centre for Research & Technology, Hellas](https://www.certh.gr/), [Information Technology Institute](https://www.iti.gr/iti/index.html) (Feb. 2022 - Dec. 2023)
+
+Research Postgraduate at [Imperial College London](https://www.imperial.ac.uk/), Department of Electrical and Electronic Engineering (Jan. 2024 - today)
+
+
