@@ -1,6 +1,7 @@
 ### Hello there 👋
 
-Research Postgraduate at Imperial College London
+Research Postgraduate at Imperial College London  
+
 Department of Electrical and Electronic Engineering, Communications and Signal Processing Group
 
 ![python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) 
