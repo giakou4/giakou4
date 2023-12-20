@@ -2,11 +2,7 @@
 
 Research Postgraduate at Imperial College London
 
-Communications and Signal Processing Group
-
-Department of Electrical and Electronic Engineering
-
-South Kensigton Campus, London SW7 2AZ, UK
+Communications and Signal Processing Group, Department of Electrical and Electronic Engineering
 
 ![python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) 
 ![pytorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white) 
